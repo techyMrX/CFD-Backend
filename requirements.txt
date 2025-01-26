@@ -13,7 +13,7 @@ certifi==2024.12.14
 charset-normalizer==3.4.1
 click==8.1.8
 deepface
-dlib==19.24.6
+dlib==19.24.1
 face-recognition==1.3.0
 face-recognition-models==0.3.0
 filelock==3.16.1
